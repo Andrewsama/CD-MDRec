@@ -1,4 +1,4 @@
-# CD-DMRec
+# CD-MDRec
 This is the PyTorch implementation for **CD-MDRec** proposed in the paper **Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation**.
 
 ![fig2](./fig/fig.2.png)
@@ -26,14 +26,14 @@ We develop our codes in the following environment:
 | avg # of procedure  | 10.2384  | 9.4601    | 8.0635    |
 | avg # of medication | 27.2665  | 29.7427   | 24.6683   |
 
-## 2. Datasets
+## 3. Downloads
 
 1. You must have obtained access to [MIMIC-II](https://physionet.org/content/mimic3-carevue/1.4/), [MIMIC-III](https://physionet.org/content/mimiciii/) and [MIMIC-IV](https://physionet.org/content/mimiciv/) databases before running the code. 
 
 2. Download the MIMIC-II, MIMIC-III and MIMIC-IV datasets, then unzip and put them in the `data` directory. Specifically, you need to download the following files: `DIAGNOSES_ICD.csv`, `PRESCRIPTIONS.csv`, and `PROCEDURES_ICD.csv`.
 
 
-## 3. How to run the codes
+## 4. How to run the codes
 
 ```python9
  python run_mimic2.py
