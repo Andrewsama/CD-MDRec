@@ -26,7 +26,7 @@ We develop our codes in the following environment:
 | avg # of procedure  | 10.2384  | 9.4601    | 8.0635    |
 | avg # of medication | 27.2665  | 29.7427   | 24.6683   |
 
-## 3. Downloads
+## 3. Download
 
 1. You must have obtained access to [MIMIC-II](https://physionet.org/content/mimic3-carevue/1.4/), [MIMIC-III](https://physionet.org/content/mimiciii/) and [MIMIC-IV](https://physionet.org/content/mimiciv/) databases before running the code. 
 
