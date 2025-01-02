@@ -1,7 +1,7 @@
 # CD-MDRec
 This is the PyTorch implementation for **CD-MDRec** proposed in the paper **Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation**.
 
-![fig2](./fig/fig.2.png)
+![fig2](fig/fig.2.png)
 
 ## 1. Running environment
 
